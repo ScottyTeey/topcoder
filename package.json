@@ -1,8 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
+	"version": "1.0.0",
+	"description": "Npm json activity",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
@@ -12,7 +11,9 @@
 		"url": "https://github.com/ScottyTeey/topcoder.git"
 	},
 	"author": {
-		"name": "Lebogang",
-		"description": "Npm json activity"
+		"name": "Lebogang"
+	},
+	"dependencies": {
+		"express": "^4.14.0"
 	}
 }
