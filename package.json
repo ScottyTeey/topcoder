@@ -11,11 +11,9 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
-	{
+	},
 		"author": {
 			"name": "Lebogang",
 			"description": "Npm json activity"
 		}
-	}
 }
