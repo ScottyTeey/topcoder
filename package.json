@@ -1,5 +1,4 @@
 {
-	
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -10,10 +9,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/ScottyTeey/topcoder.git"
 	},
-		"author": {
-			"name": "Lebogang",
-			"description": "Npm json activity"
-		}
+	"author": {
+		"name": "Lebogang",
+		"description": "Npm json activity"
+	}
 }
